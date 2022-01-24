@@ -1,7 +1,7 @@
-# node index.js
+# readme generator
 
 ## Description 
-readme generatro
+generate a custom readme
 
 ### Features
 none
@@ -20,7 +20,7 @@ inquirer
 none
 
 ### Credits
-megan and isaac for their help
+megan and isaac for all their help
 
 ### Test
 none
