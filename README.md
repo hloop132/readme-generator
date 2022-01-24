@@ -1,7 +1,7 @@
 # readme generator
 
 ## Description 
-generate a custom readme
+to create a custom readme
 
 ### Features
 none
