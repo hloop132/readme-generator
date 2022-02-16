@@ -1,10 +1,10 @@
-# readme gen
+# jsfhdb
 
 ## Description 
-generating a readme 
+kjdfs
 
 ### Features
-none
+kdjal
 
 ### Table of Contents
 * [Usage](#Usage)
@@ -14,15 +14,15 @@ none
 * [Questions](#Questions)
 
 ## Installation
-npm i for inquirer
+dksja
 
 ## Usage
-none
+dksjb
 
 ### Credits
-me
+ksdja
 
 ### Test
-done
+djkalhs
 
-![licence](https://img.shields.io/badge/License-none-green.svg)
+![licence](https://img.shields.io/badge/License-dksjfa-green.svg)

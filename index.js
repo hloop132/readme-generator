@@ -82,7 +82,7 @@ ${credits}
 ### Test
 ${test}
 
-![licence](https://img.shields.io/badge/License-${licence}-blue.svg)
+![licence](https://img.shields.io/badge/License-${licence}-green.svg)
 `
 
 //answers data
@@ -90,7 +90,7 @@ ${test}
 
 const content = () =>{
     answers()
-    .then((userInput) => fs.writeFileSync(`README.md`, data(userInput)))
+    .then((userInput) => fs.writeFileSync(`READMEtest.md`, data(userInput)))
     // .then(() => console.log("generating")) 
     .catch((err) => {throw err})
 }
