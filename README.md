@@ -14,7 +14,7 @@ none
 * [Questions](#Questions)
 
 ## Installation
-inquirer
+To install the necessary depenencies, run the following command npm install or npm i
 
 ## Usage
 none
