@@ -25,4 +25,7 @@ megan and isaac for all their help
 ### Test
 none
 
+### Demo
+!(readmeGen.gif)
+
 ![licence](https://img.shields.io/badge/License-none-blue.svg)
